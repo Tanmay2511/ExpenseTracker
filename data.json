@@ -1,0 +1,58 @@
+{
+  "expenses": [
+    {
+      "id": 0,
+      "title": "Food",
+      "spendvalue": "10",
+      "date": "02/05/2022"
+    },
+    {
+      "id": 1,
+      "title": "Clothes",
+      "spendvalue": "10",
+      "date": "20/11/2022"
+    },
+    {
+      "title": "Petrol",
+      "spendvalue": "300",
+      "date": "29/09/2022",
+      "id": 2
+    },
+    {
+      "title": "diet",
+      "spendvalue": "30",
+      "date": "03/01/2022",
+      "id": 3
+    },
+    {
+      "title": "test",
+      "spendvalue": "10",
+      "date": "14/10/2022",
+      "id": 4
+    },
+    {
+      "title": "test",
+      "spendvalue": "50",
+      "date": "22/12/2022",
+      "id": 5
+    },
+    {
+      "title": "demo",
+      "spendvalue": "30",
+      "date": "22/12/2022",
+      "id": 6
+    },
+    {
+      "title": "books",
+      "spendvalue": "100",
+      "date": "22/12/2022",
+      "id": 7
+    },
+    {
+      "title": "sum",
+      "spendvalue": "60",
+      "date": "22/12/2022",
+      "id": 8
+    }
+  ]
+}
